@@ -1,14 +1,16 @@
 # Live Coding - Criando o sistema de VOTAÇÃO ONLINE do BBB - DIO
 
+# Java Microservice com Kakfa (Consumer) e Mongo DB
+
 > Projeto do Back-End MicroService Kafka Consumer realizado durante a live coding Criando o sistema de VOTAÇÃO ONLINE do BBB da DIO com Rodrigo Tavares (Avanade) e Juliana Mascarenhas (DIO)
 
 ## Tecnologias do back-end
 
-- Java
-- Spring
-- MongoDB
-- Kafka
-- Docker
+- Java : Linguagem programação
+- Spring : Framework Java
+- MongoDB : Banco de Dados noSQL
+- Kafka : Mensageria
+- Docker : Container
 
 ## Docker-Compose
 
